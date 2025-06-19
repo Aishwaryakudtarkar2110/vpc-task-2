@@ -18,8 +18,6 @@ This project sets up an AWS VPC with a public subnet and a private subnet across
 
 ---
 
-## ✅ What You Did
-
 1. **Created a VPC** with a specified CIDR block (e.g., `10.0.0.0/16`)  
 2. **Created 2 subnets** in separate AZs within the VPC:  
    - `10.0.1.0/24` (public)  
